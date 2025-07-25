@@ -6,8 +6,11 @@ import 'package:provider/provider.dart';
 import 'router.dart';
 import 'providers.dart';
 
+
+
+
 void main() {
-  runApp(MyApp());
+  runApp( MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -27,3 +30,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
