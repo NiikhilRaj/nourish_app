@@ -9,9 +9,8 @@ import 'package:toastification/toastification.dart';
 import 'router.dart';
 import 'providers.dart';
 
-
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
